@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Max Aantjes</title>
+    <link>https://maxaantjes.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Max Aantjes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://maxaantjes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name_Change_Function</title>
+      <link>https://maxaantjes.github.io/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://maxaantjes.github.io/post/project-1/</guid>
+      <description>gsub() is a useful core R function which can be used to detect certain character strings and replace them with others. However, if a multitude of changes needs to be made to a vector of character strings, it can be tedious to write a long list of gsub() lines. Additionally, testing each line may require many print functions and bloat the console.
+Below is a loop function to make any number of changes to character strings through the use of gsub() with just three line of code.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>https://maxaantjes.github.io/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://maxaantjes.github.io/post/project-2/</guid>
+      <description>Placeholder</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maxaantjes.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxaantjes.github.io/contact/</guid>
+      <description>Placeholder</description>
+    </item>
+    
+  </channel>
+</rss>
