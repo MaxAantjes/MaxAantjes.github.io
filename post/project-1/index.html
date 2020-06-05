@@ -175,7 +175,7 @@
         }
         return(x)
 }
-</code></pre><h1 id="arguments">Arguments</h1>
+</code></pre><h3 id="arguments">Arguments</h3>
 <p>There are no default arguments. The three arguments of the function are:</p>
 <ul>
 <li>
@@ -189,7 +189,7 @@
 </li>
 </ul>
 <p>Each character string in <em>x</em> which corresponds with the first string in <em>original</em> will then be replaced with the first string in <em>new</em>, etc. If this sounds complex, there is an example below.</p>
-<h1 id="example-of-untidy-data-frame">Example of Untidy Data Frame</h1>
+<h3 id="example-of-untidy-data-frame">Example of Untidy Data Frame</h3>
 <p>Consider for instance the following fictional untidy data frame:</p>
 <figure>
     <img src="https://maxaantjes.github.io/images/04062020_name_change_function_table_1.png"/> <figcaption>
@@ -197,7 +197,7 @@
         </figcaption>
 </figure>
 
-<h1 id="use-of-function-on-example-data-frame">Use of Function on Example Data Frame</h1>
+<h3 id="use-of-function-on-example-data-frame">Use of Function on Example Data Frame</h3>
 <p>The names of the data set can now be tidied as follows through the name_change function:</p>
 <pre><code class="language-{r" data-lang="{r">original &lt;- c(&quot;\\.&quot;, &quot; &quot;, &quot;GDPmean&quot;, &quot;GDPmedian&quot;, &quot;yearAve&quot;)
 new &lt;- c(&quot;&quot;, &quot;&quot;, &quot;GDP.mean.&quot;, &quot;GDP.median.&quot;, &quot;.year.average&quot;)
@@ -209,7 +209,7 @@ names(data) &lt;- change_name(names(data), original, new)
         </figcaption>
 </figure>
 </p>
-<h1 id="testing-the-result-before-assignment">Testing the Result before Assignment</h1>
+<h3 id="testing-the-result-before-assignment">Testing the Result before Assignment</h3>
 <p>If you are working with a data frame you want to be able to test the results of the change_name function quickly. For testing if the original and new vectors are properly specified, simply run the following line on its own WITHOUT assigning it to names(data).</p>
 <pre><code class="language-{r" data-lang="{r">change_name(names(data), original, new)
 </code></pre><ul class="pa0">
