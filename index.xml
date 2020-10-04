@@ -6,10 +6,20 @@
     <description>Recent content in Data Science Portfolio on Max Aantjes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://maxaantjes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The transition from Private to Public Education in Ecuador: what does it mean?</title>
+      <link>https://maxaantjes.github.io/post/project-2/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://maxaantjes.github.io/post/project-2/</guid>
+      <description>At the end of June, the IADB reported that public education enrolment in the Ecuadorian coastal provinces had increased with 6.5% (Olson, 2020). Last week, Ecuavisa, a major Ecuadorian Television Network reported that over 150 thousand students nationwide have transitioned from private to public institutions (Ecuavisa, 2020). This post provides a brief analysis of the potential effect of this transition in Ecuador and explores policy recommendations.
+This apparent fall in private education enrolment was expected.</description>
+    </item>
     
     <item>
       <title>Digitalisation of the Ecuadorian Education System during Covid-19: an Exploratory Analysis of three Factors of Exclusion</title>

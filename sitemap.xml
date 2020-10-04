@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://maxaantjes.github.io/</loc>
-    <lastmod>2020-08-24T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-04T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxaantjes.github.io/post/project-2/</loc>
+    <lastmod>2020-10-04T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
